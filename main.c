@@ -4,6 +4,7 @@
 int main () {
     printf("米米世界\n");
     printf("hello world\n");
+    printf("xiugai");
     system("pause");
     return 0;
 }
